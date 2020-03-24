@@ -1,8 +1,5 @@
 HELLO
 asjhdgbfasgkgkasglk
 wefaswedsaefgsFG
-<<<<<<< HEAD
-uyfgufluiuhgh
-=======
 My text
->>>>>>> 58bb3d5c4d46f7800983f43beb25ab88dcf5a9ae
+
